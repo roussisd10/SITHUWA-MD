@@ -1,13 +1,13 @@
 {
-               "name": "sithuwa-md",
+               "name": "roussi-md",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Sithuwa.",
+               "description": "Multi device whatsapp bot by roussi.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name SITHUWA-MD",
-                "stop": "pm2 stop SITHUWA-MD"
+                "stop": "pm2 stop ROUSSI-MD"
                 },
                "author": "SITHUM-KALHARA",
               "dependencies": {
@@ -99,7 +99,7 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/Sithuwa/SITHUWA-MD.git"
+                 "url": "https://github.com/roussisd10/SITHUWA-MD/.git"
                   },
                  "bugs": {
                  "url": "https://github.com/Sithuwa/SITHUWA-MD/issues"
